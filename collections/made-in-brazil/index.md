@@ -1,5 +1,6 @@
 ---
 items:
+  - logspace-ai/langflow
   - clappr/clappr
   - devhubapp/devhub
   - dracula/dracula-theme
